@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ResourcePreloader.NET11/ResourcePreloader.NET11.Client/ResourcePreloader.NET11.Client.csproj" />
+  <Project Path="ResourcePreloader.NET11/ResourcePreloader.NET11/ResourcePreloader.NET11.csproj" />
+</Solution>
