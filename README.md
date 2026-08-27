@@ -15,4 +15,6 @@ When navigating to an `InteractiveWebAssembly` page, Blazor emits WebAssembly pr
 ### .NET 11
 WebAssembly preload links are only emitted on the initial page load or a full page refresh. They are not emitted during enhanced navigation.
 
-## Run the Sample
+## Additional Information
+For more details about this behavior change.
+https://github.com/dotnet/aspnetcore/issues/68528
